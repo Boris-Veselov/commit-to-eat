@@ -30,6 +30,7 @@ A website featuring various eating challenges around you, where you can enter a 
 * Heroku
 
 ## Preview
+![CommitToEat](https://user-images.githubusercontent.com/96749114/177692590-f334ab90-6fed-44c6-9972-d8b8c0a73fa7.jpg)
 
 ## Website Link
 
